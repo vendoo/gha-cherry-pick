@@ -69,3 +69,8 @@ It's possible to use `author_association` field of a comment to restrict who can
 
 GitHub can also optionally dismiss an existing review automatically after rebase, so you'll need to re-approve again which will trigger the test workflow.
 Set it up in your repository *Settings* > *Branches* > *Branch protection rules* > *Require pull request reviews before merging* > *Dismiss stale pull request approvals when new commits are pushed*.
+
+
+----
+
+Pelase cherry pick me!

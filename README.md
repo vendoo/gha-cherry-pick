@@ -1,6 +1,7 @@
-# GitHub action to automatically rebase PRs
+# GitHub action to automatically cherry-pick PRs
 
-[![Build Status](https://api.cirrus-ci.com/github/cirrus-actions/rebase.svg)](https://cirrus-ci.com/github/cirrus-actions/rebase) [![](https://images.microbadger.com/badges/version/cirrusactions/rebase.svg)](https://microbadger.com/images/cirrusactions/rebase) [![](https://images.microbadger.com/badges/image/cirrusactions/rebase.svg)](https://microbadger.com/images/cirrusactions/rebase)
+WIP
+
 
 After installation simply comment `/rebase` to trigger the action:
 

@@ -1,0 +1,9 @@
+name: 'Cherry-Pick Squashed PRS'
+description: 'Cherry pick PRs to other branches with a comment'
+author: 'Vendoo Inc.'
+branding:
+  icon: "git-pull-request"
+  color: "purple"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
